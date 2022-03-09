@@ -1,6 +1,9 @@
 # DeleteSpace_and_Translation
 ##本软件编写的初衷是针对一些PDF文献复制格式存在多余空格(换行等)的格式标准化
+
 软件的编写全程为C#语言(基于.NET Framework 4.6.1)
+![示意图](https://user-images.githubusercontent.com/53938635/157469334-5efa64b6-d42d-4f69-abdf-a9027bdd881f.jpg)
+
 主要功能如下：
 1.文本格式标准化:根据输入自动识别中英文，中文去掉部分多余空格+换行；英文只保留一个空格+去换行
 2.文本翻译功能，目前集成了谷歌、百度、小牛、有道4个翻译引擎
